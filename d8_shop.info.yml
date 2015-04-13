@@ -1,0 +1,6 @@
+name: Shop
+description: Drupal 8 Shop module
+package: ikee
+type: module
+version: 8.0.1
+core: 8.x
